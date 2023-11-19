@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 
-🙋‍♀️ We are Calicult, a teamthat works on CALICODE, based on CALICO, a biannual competitive coding event. CALICODE is a platform to extend CALICO with more problems and more!
+🙋‍♀️ We are CCLTDD, a department of the CALICULT, a team that works on many different projects, including CALICODE. CALICODE is based on CALICO, a biannual competitive coding event. CALICODE is a platform to extend CALICO with more problems and more!
 
 🌈 Please favorite our repos! No reason in particular...
 
 👩‍💻 We will add more repos and features... soon... hopefully.
 
-🍿 We worship the CALICO Bricks.
+🍿 We worship the CALICO Bricks AND the god Big Ben.
 
-🧙 CALICO has cool discord, go find it!
+🧙 CALICO has a cool discord! https://discord.gg/6bvzygFbKK 
+
+📞 Want to contact us? Join our discord at https://discord.gg/DWhMTsEzxK 
 
