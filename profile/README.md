@@ -13,5 +13,5 @@
 
 📞 Want to contact us? Join our discord at https://discord.gg/DWhMTsEzxK 
 
-
+🪙 Want to donate? Send us bitcoin at `1K4nm4CYcV95GDReMGQVy7ZVG3t5RkNhP8`
 
