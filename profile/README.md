@@ -3,7 +3,7 @@
 
 🙋‍♀️ We are CCLTDD, a team that works on many different projects, including CALICODE. CALICODE is based on CALICO, a biannual competitive coding event. CALICODE is a platform to extend CALICO with more problems and more!
 
-🌈 Please favorite our repos! No reason in particular...
+🌈 Please favorite our repos! No reason in particular... (maybe because we want clout)
 
 👩‍💻 We will add more repos and features... soon... hopefully.
 
